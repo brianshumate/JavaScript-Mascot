@@ -4,6 +4,10 @@
 	Twitter: @brianshumate
 	From: North Carolina, USA
 
+/* Shouts */
+
+  Awesome BG Tech: Simurai (@simurai)
+
 /* SITE */
 	Last update: 2011/09/18
 	Language: English
