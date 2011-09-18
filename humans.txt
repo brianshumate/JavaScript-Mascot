@@ -1,0 +1,11 @@
+/* TEAM */
+	Dotstar: Brian Shumate
+	Contact: brian [at] brianshumate.com
+	Twitter: @brianshumate
+	From: North Carolina, USA
+
+/* SITE */
+	Last update: 2011/09/18
+	Language: English
+	Doctype: HTML5
+	IDE: Vim, 1140px, Photoshop
