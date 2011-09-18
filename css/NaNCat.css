@@ -3,8 +3,8 @@ body{background-image:-webkit-linear-gradient( 0deg,hsla(0,0%,100%,0) 0px,hsla(0
 #NaNCat{text-align:center;padding-top:60px;}
 #NaNCat img{padding:2px;box-shadow:0 0 9px rgba(178,254,70,1);-webkit-box-shadow:0 0 9px rgba(178,254,70,1);-moz-box-shadow:0 0 9px rgba(178,254,70,1);border:1px solid rgba(178,254,70,0.8);}
 #howdy{left:-65px;height:30px;top:40px;position:absolute;text-decoration:none;width:250px;-moz-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);-o-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg);}
-#howdy span{background:rgba(0, 0, 0, 0.5);color:white;font-family:sans-serif;font-size:14px;left:0;padding:5px 0;position:absolute;text-align:center;width:250px;-moz-box-shadow:rgba(0,0,0,0.2) 1px 1px 10px;-webkit-box-shadow:rgba(0,0,0,0.2) 1px 1px 10px;-o-box-shadow:rgba(0,0,0,0.2) 1px 1px 10px;box-shadow:rgba(0,0,0,0.2) 1px 1px 10px;-moz-transition-property:opacity;-webkit-transition-property:opacity;-o-transition-property:opacity;transition-property:opacity;-moz-transition-duration:1s;-webkit-transition-duration:1s;-o-transition-duration:1s;transition-duration:1s;}
-#howdy span:last-child{background-color:hsl(85,80%,50%);opacity:0;}
+#howdy span{background:rgba(0, 0, 0, 0.5);color:rgba(178,254,70,0.8);font-family:sans-serif;font-size:14px;left:0;padding:5px 0;position:absolute;text-align:center;width:250px;-moz-box-shadow:rgba(0,0,0,0.2) 1px 1px 10px;-webkit-box-shadow:rgba(0,0,0,0.2) 1px 1px 10px;-o-box-shadow:rgba(0,0,0,0.2) 1px 1px 10px;box-shadow:rgba(0,0,0,0.2) 1px 1px 10px;-moz-transition-property:opacity;-webkit-transition-property:opacity;-o-transition-property:opacity;transition-property:opacity;-moz-transition-duration:1s;-webkit-transition-duration:1s;-o-transition-duration:1s;transition-duration:1s;}
+#howdy span:last-child{background-color:hsl(85, 78%, 42%);opacity:0;}
 #howdy :hover span:first-child{opacity:0;}
 #howdy :hover span:last-child{opacity:1;}
 @media all and (-webkit-transform-3d){#howdy{span{opacity:1 !important;-webkit-backface-visibility:hidden;-webkit-transition:-webkit-transform 1s;&:last-child{-webkit-transform:rotateX(180deg);}
