@@ -11,3 +11,5 @@ body{background-image:-webkit-linear-gradient( 0deg,hsla(0,0%,100%,0) 0px,hsla(0
 }
 &:hover span{&:first-child{-webkit-transform:rotateX(180deg);}
 &:last-child{-webkit-transform:rotateX(360deg);}}}}
+#attribution{color:#c2ef55;font-family:monospace;font-size:14px;padding-top:20px}
+#attribution a, #attribution a:hover, #attribution a:visited, #attribution a:active {color:#b3fd00;text-decoration:none;font-weight:700;}
