@@ -10,7 +10,7 @@
   Github Bage: Nico Hagenburger (https://github.com/hagenburger)
 
 /* SITE */
-	Last update: 2011/09/18
+	Last update: 2014/10/14
 	Language: English
 	Doctype: HTML5
 	IDE: TextMate, 1140px, Photoshop
